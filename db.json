@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "email": "teste@kenzie.com",
+      "password": "$2a$10$dhKOtIdAC7cQuZEloaE4lOABFX7ll5km3NhDUFJZ5.xR/wTzhr7uC",
+      "name": "Kenzie",
+      "id": 1
+    },
+    {
+      "email": "teste@email.com",
+      "password": "$2a$10$5nPLtTT83XK5X6rUHcOj4OFCq7EEKYvrP7eKQ1ztHZ6iwKIbrbBKO",
+      "name": "Teste",
+      "id": 2
+    }
+  ],
+  "perfil": [
+    {
+      "userId": 2,
+      "name": "Teste",
+      "age": 24,
+      "country": "Brazil",
+      "id": 1
+    }
+  ],
+  "skills": [
+    {
+      "userId": "2",
+      "skill": "Teste",
+      "level": "iniciante",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "title": "Teste",
+      "description": "Teste teste",
+      "id": 2
+    }
+  ],
+  "works": [
+    {
+      "userId": 2,
+      "title": "Teste",
+      "description": "Teste teste",
+      "id": 1
+    }
+  ],
+  "groups": [
+    {
+      "userId": 2,
+      "groupName": "teste",
+      "description": "Teste teste",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "userId": 1,
+      "groupId": 1,
+      "comments": "Teste lala",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "groupId": 1,
+      "comments": "Teste lala",
+      "id": 2
+    }
+  ],
+  "subscribe": [
+    {
+      "userId": 1,
+      "groupId": 1,
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "groupId": 1,
+      "id": 2
+    }
+  ]
+}
