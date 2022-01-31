@@ -13,7 +13,7 @@ const rules = auth.rewriter({
   perfil: 640,
   skills: 640,
   works: 640,
-  gropus: 660,
+  groups: 660,
   comments: 660,
   subscribe: 660
 });
