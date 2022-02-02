@@ -17,8 +17,8 @@
     {
       "userId": 2,
       "name": "Teste",
-      "age": 24,
-      "country": "Brazil",
+      "linkedin": "url",
+      "imagem": "url",
       "id": 1
     }
   ],
@@ -56,12 +56,14 @@
     {
       "userId": 1,
       "groupId": 1,
+      "name": "Kenzie",
       "comments": "Teste lala",
       "id": 1
     },
     {
       "userId": 2,
       "groupId": 1,
+      "name":"Teste",
       "comments": "Teste lala",
       "id": 2
     }
