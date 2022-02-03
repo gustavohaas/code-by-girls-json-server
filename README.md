@@ -141,7 +141,7 @@ Resposta:<br/>
 <br/>
 Parte da API responsável pelo cadastro e manejo de grupos do usuário. </br>
 <br/>
-POST /works<br/>
+POST /groups<br/>
 <br/>
 Que deve ser utilizado no formato: <br/>
 {<br/>
