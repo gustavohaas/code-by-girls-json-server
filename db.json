@@ -32,28 +32,7 @@
       "id": 1
     }
   ],
-  "groups": [
-    {
-      "userId": 1,
-      "groupName": "JavaScript",
-      "description": "Grupo para aprender sobre JavaScript",
-      "id": 1
-    }
-  ],
-  "comments": [
-    {
-      "userId": 1,
-      "groupId": 1,
-      "name": "Maria",
-      "comments": "Bom dia, alguém tem algum kata para indicar?",
-      "id": 1
-    }
-  ],
-  "subscribe": [
-    {
-      "userId": 1,
-      "groupId": 1,
-      "id": 1
-    }
-  ]
+  "groups": [],
+  "comments": [],
+  "subscribe": []
 }
