@@ -11,6 +11,11 @@
       "password": "$2a$10$5nPLtTT83XK5X6rUHcOj4OFCq7EEKYvrP7eKQ1ztHZ6iwKIbrbBKO",
       "name": "Teste",
       "id": 2
+    },
+    {
+      "email": "austenkate@lost.com",
+      "password": "$2a$10$64up/J22qc2AGFQDtZN7PeRKZ9OnBMIuYMjTLXgUsJm3nTWWif3Sa",
+      "id": 3
     }
   ],
   "perfil": [
@@ -50,6 +55,11 @@
       "groupName": "teste",
       "description": "Teste teste",
       "id": 1
+    },
+    {
+      "groupName": "Garbage",
+      "description": "Grupo estadunidense formado na cidade de Madison, em 1994",
+      "id": 2
     }
   ],
   "comments": [
@@ -64,6 +74,15 @@
       "groupId": 1,
       "comments": "Teste lala",
       "id": 2
+    },
+    {
+      "comments": "I took a walk with my fame Down memory lane I never did find my way back",
+      "groupId": "1",
+      "id": 3
+    },
+    {
+      "comments": "I took a walk with my fame Down memory lane I never did find my way back",
+      "id": 4
     }
   ],
   "subscribe": [
@@ -76,6 +95,11 @@
       "userId": 2,
       "groupId": 1,
       "id": 2
+    },
+    {
+      "name": "Everything But The Girl",
+      "groupId": "1",
+      "id": 3
     }
   ]
 }
