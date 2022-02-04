@@ -1,9 +1,9 @@
 {
   "users": [
     {
-      "email": "teste@kenzie.com",
+      "email": "maria@kenzie.com",
       "password": "$2a$10$dhKOtIdAC7cQuZEloaE4lOABFX7ll5km3NhDUFJZ5.xR/wTzhr7uC",
-      "name": "Kenzie",
+      "name": "Maria",
       "id": 1
     },
     {
@@ -20,25 +20,19 @@
   ],
   "perfil": [
     {
-      "userId": 2,
-      "name": "Teste",
+      "userId": 1,
+      "name": "Maria",
       "linkedin": "url",
-      "imagem": "url",
+      "imagem": "https://www.drupal.org/files/user-pictures/picture-3575721-1579083659.png",
       "id": 1
     }
   ],
   "skills": [
     {
-      "userId": "2",
-      "skill": "Teste",
+      "userId": 1,
+      "skill": "JavaScripts",
       "level": "iniciante",
       "id": 1
-    },
-    {
-      "userId": 2,
-      "title": "Teste",
-      "description": "Teste teste",
-      "id": 2
     }
   ],
   "works": [
@@ -65,43 +59,12 @@
   "comments": [
     {
       "userId": 1,
-      "groupId": 1,
-      "name": "Kenzie",
-      "comments": "Teste lala",
+      "title": "Hamburgueria",
+      "description": "Aplicação que simula um aplicativo de uma hamburgueria",
       "id": 1
-    },
-    {
-      "userId": 2,
-      "groupId": 1,
-      "name":"Teste",
-      "comments": "Teste lala",
-      "id": 2
-    },
-    {
-      "comments": "I took a walk with my fame Down memory lane I never did find my way back",
-      "groupId": "1",
-      "id": 3
-    },
-    {
-      "comments": "I took a walk with my fame Down memory lane I never did find my way back",
-      "id": 4
     }
   ],
-  "subscribe": [
-    {
-      "userId": 1,
-      "groupId": 1,
-      "id": 1
-    },
-    {
-      "userId": 2,
-      "groupId": 1,
-      "id": 2
-    },
-    {
-      "name": "Everything But The Girl",
-      "groupId": "1",
-      "id": 3
-    }
-  ]
+  "groups": [],
+  "comments": [],
+  "subscribe": []
 }
